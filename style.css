@@ -1,0 +1,14 @@
+h3{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color: blueviolet;
+    background-color: aquamarine;
+}
+.one,.two,.three{
+    background-color: antiquewhite;
+    border: 20px;
+    border-radius: 40px;
+    padding: 20px;
+    box-shadow: 5px 3px 15px;
+    margin-bottom: 20px;
+}
